@@ -5,6 +5,8 @@ FLL Unearthed Dinos (Team 27820)
 
 This script supports:
 
+Minor enchangements to the code to make it run faster on PI 2025 10 09
+
 Use cases:
 - Live camera classification demo
 - Capture frames to build a dataset
@@ -412,3 +414,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
