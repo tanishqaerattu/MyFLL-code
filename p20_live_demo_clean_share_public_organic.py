@@ -16,6 +16,11 @@ IMPORTANT:
 This is a STEM/FLL prototype. Real archaeological organic identification
 typically requires lab analysis and context.
 
+
+Given to WA Innovators on 2026 01 27 : multiple teams in FIRST community.
+
+
+
 """
 
 import os
@@ -414,4 +419,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
