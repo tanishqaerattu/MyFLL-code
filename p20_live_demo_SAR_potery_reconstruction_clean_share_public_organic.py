@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
+
 FLL Unearthed Dinos (Team 27820)
 "Artifact" Vision Prototype for Raspberry Pi
 
-This script supports:
-
+This script supports: 
 Minor enchangements to the code to make it run faster on PI 2025 10 09
 
 Use cases:
@@ -19,7 +19,7 @@ typically requires lab analysis and context.
 
 Given to WA Innovators on 2026 01 27 : multiple teams in FIRST community.
 
-
+Super set changes 2026 04 11
 
 """
 
