@@ -1,6 +1,16 @@
 #!/usr/bin/env python3
 """
 
+
+
+# 2026 08 22 : Now Tanishqa is part of sounder Bots FTC 23270    ## contact us for mentoring or assistance.
+
+
+
+
+
+
+
 FLL Unearthed Dinos (Team 27820)
 "Artifact" Vision Prototype for Raspberry Pi
 
